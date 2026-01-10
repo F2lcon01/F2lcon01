@@ -15,6 +15,10 @@
 >
 > **فلسفتي:** البرمجة ليست مجرد سطور، بل هي فن صناعة الحلول.
 
+</div>
+
+<div align="left">
+
 ```dart
 class AhmedAdel {
   String role = "Flutter Developer & Instructor";
@@ -76,7 +80,7 @@ class AhmedAdel {
 
 <p align="center">
   <a href="https://github.com/F2lcon01">
-    <img src="https://github-readme-stats.vercel.app/api?username=F2lcon01&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=F2lcon01&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
   </a>
   <a href="https://github.com/F2lcon01">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=F2lcon01&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />

@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=300&section=header&text=Falcon01&fontSize=90&fontAlign=50&animation=fadeIn&fontAlignY=38&desc=Code%20.%20Design%20.%20Innovate&descAlign=50&descAlignY=55&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F700FF,100:00D2FF&height=300&section=header&text=Falcon01&fontSize=90&fontAlign=50&animation=fadeIn&fontAlignY=38&desc=Code%20.%20Design%20.%20Innovate&descAlign=50&descAlignY=55&descSize=20" width="100%"/>
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=Flutter+Developer+%26+Instructor;Creative+Coder+%7C+Falcon01;Building+Modern+Experiences;Transforming+Ideas+into+Reality" alt="Typing SVG" />
 </div>
 <br />
 
@@ -76,25 +78,22 @@ class AhmedAdel {
 
 <br />
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">🏆 Achievements & Trophies</h2>
 
-<p align="center">
-  <a href="https://github.com/F2lcon01">
-    <img src="https://github-readme-stats.vercel.app/api?username=F2lcon01&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophies">
+    <img src="https://github-profile-trophies.vercel.app/?username=F2lcon01&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" width="100%" />
   </a>
-  <a href="https://github.com/F2lcon01">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=F2lcon01&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=F2lcon01&label=Profile%20Views&color=0e75b6&style=flat" alt="F2lcon01" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F2lcon01&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="60%" />
-</p>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="600" height="20" />
+</div>
 
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,100:F700FF&height=100&section=footer" width="100%"/>
 </div>

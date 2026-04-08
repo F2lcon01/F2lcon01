@@ -7,9 +7,13 @@
 <br>
 
 [![Flutter](https://img.shields.io/badge/🎯_Flutter-Developer-0ea5e9?style=for-the-badge&logoColor=white)](#-المهارات--skills)
-[![YouTube](https://img.shields.io/badge/📺_اتعلم_ببساطة-Content_Creator-38bdf8?style=for-the-badge&logoColor=white)](https://youtube.com/@LearnSimply_)
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCxxxxxxxxxx?style=for-the-badge&logo=youtube&logoColor=white&label=اتعلم%20ببساطة&color=FF0000)](https://youtube.com/@LearnSimply_)
 [![Projects](https://img.shields.io/badge/🚀_4+_Projects-Open_Source-7dd3fc?style=for-the-badge&logoColor=white)](#-أبرز-الأعمال--highlights)
 [![Falcon01](https://img.shields.io/badge/🦅_Falcon01-Developer-1e3a5f?style=for-the-badge&logoColor=white)](https://github.com/F2lcon01)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=F2lcon01&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS)
 
 </div>
 
@@ -50,15 +54,46 @@
 
 <br>
 
+<div align="center">
+
+## 🔥 حالياً — Currently
+
+</div>
+
+<br>
+
+```
+  🟢 أشتغل على   ──→  Polar OS v5.1 — نظام ويندوز محسّن للقيمرز
+                        50+ سكربت PowerShell | 11 مرحلة تنفيذ
+
+  🟡 أتعلم        ──→  Flutter Advanced Animations
+                        Implicit & Explicit animations, Custom painters
+
+  🔵 أخطط لـ      ──→  محتوى تعليمي جديد لقناة "اتعلم ببساطة"
+                        سلاسل Flutter من الصفر للاحتراف
+```
+
+> [!IMPORTANT]
+> **Polar OS** — مشروع مفتوح المصدر لتحسين Windows 11 للألعاب والأداء.
+> 50+ سكربت، 13 ملف تهيئة، نظام 5 بروفايلات، EcoQoS Smart Throttling.
+
+<br>
+
+---
+
+<br>
+
 ## 📋 الفهرس
 
 | # | القسم | الوصف |
 |:-:|-------|-------|
 | 1 | [🔮 من أنا](#-من-أنا--about-me) | نبذة شخصية وفلسفة البرمجة |
-| 2 | [🛠️ المهارات](#️-المهارات--skills) | التقنيات والأدوات |
-| 3 | [🚀 أبرز الأعمال](#-أبرز-الأعمال--highlights) | المشاريع المميزة |
-| 4 | [📊 الإحصائيات](#-الإحصائيات--stats) | أرقام GitHub |
-| 5 | [🌐 تواصل معي](#-تواصل-معي--connect) | روابط التواصل |
+| 2 | [🔥 حالياً](#-حالياً--currently) | وش أشتغل عليه الحين |
+| 3 | [🛠️ المهارات](#️-المهارات--skills) | التقنيات والأدوات |
+| 4 | [🚀 أبرز الأعمال](#-أبرز-الأعمال--highlights) | المشاريع المميزة |
+| 5 | [📊 الإحصائيات](#-الإحصائيات--stats) | أرقام GitHub + WakaTime |
+| 6 | [🏆 الإنجازات](#-الإنجازات--achievements) | الجوائز والتروفيز |
+| 7 | [🌐 تواصل معي](#-تواصل-معي--connect) | روابط التواصل |
 
 <br>
 
@@ -223,6 +258,16 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F2lcon01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a1628&title_color=0ea5e9&text_color=7dd3fc" width="40%" />
 
+<br><br>
+
+### ⏱️ وقت البرمجة — Coding Time
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=F2lcon01&theme=tokyonight&hide_border=true&bg_color=0a1628&title_color=0ea5e9&text_color=7dd3fc&icon_color=38bdf8&layout=compact" width="50%" />
+
+> [!NOTE]
+> لتفعيل WakaTime: ثبّت [إضافة WakaTime](https://wakatime.com) على VS Code وسجّل بحسابك.
+> الـ API Key يتربط تلقائي وتبدأ الإحصائيات تظهر هنا.
+
 </div>
 
 <br>
@@ -291,7 +336,11 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/F2lcon01/F2lcon01/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/F2lcon01/F2lcon01/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/F2lcon01/F2lcon01/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/F2lcon01/F2lcon01/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
 
 <br><br>
 
